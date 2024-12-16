@@ -1,17 +1,17 @@
 [
     {
-        "ptpin": "ptpin不允许重复",
-        "remarks": "备注",
+        "ptpin": "jd_sNRAwZAVSsjZ",
+        "remarks": "星月",
         "enable": true,
         "address": {
-            "receiver": "某",
-            "phone": "135",
-            "province": "省",
-            "city": "市",
-            "county": "区",
-            "address": "具体地址",
-            "postalCode": "邮编",
-            "areaCode": "身份证所在地区编码"
+            "receiver": "星月",
+            "phone": "13054401126",
+            "province": "广东省",
+            "city": "广州市",
+            "county": "海珠区区",
+            "address": "南石头街道翠华路8号牛肉面店",
+            "postalCode": "510220",
+            "areaCode": "632821"
         }
     }
 
