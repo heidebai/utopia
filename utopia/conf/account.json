@@ -1,17 +1,77 @@
 [
     {
-        "ptpin": "ptpin不允许重复",
-        "remarks": "备注",
+        "ptpin": "jd_sNRAwZAVSsjZ",
+        "remarks": "黑白",
         "enable": true,
         "address": {
-            "receiver": "某",
-            "phone": "135",
-            "province": "省",
-            "city": "市",
-            "county": "区",
-            "address": "具体地址",
-            "postalCode": "邮编",
-            "areaCode": "身份证所在地区编码"
+            "receiver": "星月",
+            "phone": "13332866674",
+            "province": "广东省",
+            "city": "广州市",
+            "county": "海珠区",
+            "address": "南石头街道翠城花园4号门旁快递柜",
+            "postalCode": "510220",
+            "areaCode": "632821"
+        }
+    },
+    {
+        "ptpin": "jd_51e7ec8a841d6",
+        "remarks": "弟",
+        "enable": true,
+        "address": {
+            "receiver": "王海生",
+            "phone": "17620036474",
+            "province": "青海省",
+            "city": "西宁市",
+            "county": "城东区",
+            "address": "金座裕喜小区三号楼二单元13楼2133",
+            "postalCode": "810000",
+            "areaCode": "632821"
+        }
+    },
+    {
+        "ptpin": "jd_stZkqILqWFJt",
+        "remarks": "黑的白",
+        "enable": true,
+        "address": {
+            "receiver": "星月",
+            "phone": "13342853989",
+            "province": "广东省",
+            "city": "广州市",
+            "county": "海珠区",
+            "address": "南石头街道翠华路10-8号中国兰州牛肉面",
+            "postalCode": "510000",
+            "areaCode": "632127"
+        }
+    },
+    {
+        "ptpin": "jd_tgGIoTToVdDM",
+        "remarks": "小号",
+        "enable": true,
+        "address": {
+            "receiver": "黑白",
+            "phone": "13332866674",
+            "province": "广东省",
+            "city": "广州市",
+            "county": "海珠区",
+            "address": "庄头东边街一巷四号203",
+            "postalCode": "510000",
+            "areaCode": "632821"
+        }
+    },
+    {
+        "ptpin": "jd_xCJPWCvCZTpe",
+        "remarks": "👵",
+        "enable": true,
+        "address": {
+            "receiver": "马",
+            "phone": "13318829379",
+            "province": "广东省",
+            "city": "广州市",
+            "county": "海珠区",
+            "address": "南石头街道翠华路8号兰州拉面",
+            "postalCode": "510000",
+            "areaCode": "632127"
         }
     }
 
