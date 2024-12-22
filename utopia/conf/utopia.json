@@ -11,7 +11,7 @@
     "M_API_H5ST_URL": "http://192.168.31.69:3001/h5st",
     "M_COOKIE_TYPE": "master,ql,redis",
     "M_MASTER_PINS": "jd_sNRAwZAVSsjZ@jd_stZkqILqWFJt@jd_51e7ec8a841d6@jd_xCJPWCvCZTpe@jd_tgGIoTToVdDM",
-    "M_REDIS_URL": "redis://:192.168.31.69:6399/0",
+    "M_REDIS_URL": "redis://:192.168.31.69:6379/0",
     "M_WX_PROXY_POOL_URL": "http://192.168.31.69:2024",
     "M_API_SIGN_URL": "http://192.168.31.69:23723/sign",
     "M_WX_ADDRESS_MODE": "RANGE",
