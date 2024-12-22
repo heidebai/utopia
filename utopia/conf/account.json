@@ -1,0 +1,18 @@
+[
+    {
+        "ptpin": "ptpin不允许重复",
+        "remarks": "备注",
+        "enable": true,
+        "address": {
+            "receiver": "某",
+            "phone": "135",
+            "province": "省",
+            "city": "市",
+            "county": "区",
+            "address": "具体地址",
+            "postalCode": "邮编",
+            "areaCode": "身份证所在地区编码"
+        }
+    }
+
+]
