@@ -16,7 +16,7 @@
     "M_API_SIGN_URL": "http://192.168.31.69:23723/sign",
     "M_WX_ADDRESS_MODE": "RANGE",
     "M_NOTIFY_ENABLE": true,
-    "M_NOTIFY_COMMON": true,
+    "M_NOTIFY_COMMON": true, 
     "M_WX_NULL_DISABLE": true,
     "TG_USER_ID": "906588",
     "TG_BOT_TOKEN": "16575667:AAGO7sxtAlFr5it_k_0u_C1w7U",
